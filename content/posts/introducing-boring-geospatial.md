@@ -1,8 +1,8 @@
-+++
-date = '2026-09-24T07:17:56-06:00'
-draft = true
-title = 'Introducing Boring Geospatial'
-+++
+---
+title: "Introducing Boring Geospatial"
+date: 2026-09-24T07:17:56-06:00
+draft: false
+---
 Far from Boring
 
 There’s no shortage of articles and posts showcasing cutting-edge, flashy geospatial and remote sensing projects, and I love reading them as much as anyone. For a long time, I wanted to share my own work, but I struggled to figure out how to make technical infrastructure and data maintenance sound like a headline story.
