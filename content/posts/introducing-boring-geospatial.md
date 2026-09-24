@@ -13,11 +13,9 @@ Then it hit me: most foundational geospatial work doesn't look like a Hollywood 
 
 When I first sat down to write, my mind went blank. That initial wave of writer's block was discouraging, but once I stepped away, the ideas started flowing:
 
-Processing Pipelines & Automation: Building reliable workflows that run smoothly behind the scenes.
-
-Formats & Standards: Navigating geospatial file formats, schemas, and metadata generation without losing your sanity.
-
-Core Fundamentals & AI: Ground-level GIS analysis, pragmatic data management, and integrating AI into practical daily workflows.
+* **Processing Pipelines & Automation:** Building reliable workflows that run smoothly behind the scenes.
+* **Formats & Standards:** Navigating geospatial file formats, schemas, and metadata generation without losing your sanity.
+* **Core Fundamentals & AI:** Ground-level GIS analysis, pragmatic data management, and integrating AI into practical daily workflows.
 
 Everything is on the table-inspired directly by the real-world tasks and operational bottlenecks we deal with every day. The goal is to tackle these topics with humility, technical depth, and a bit of humor.
 
