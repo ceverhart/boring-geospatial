@@ -1,6 +1,4 @@
-baseURL = 'https://example.org/'
-locale = 'en-us'
-title = 'My New Hugo Project'
-theme = "PaperMod"
 baseURL = "https://ceverhart.github.io/boring-geospatial/"
+locale = 'en-us'
+theme = "PaperMod"
 title = "Boring Geospatial"
